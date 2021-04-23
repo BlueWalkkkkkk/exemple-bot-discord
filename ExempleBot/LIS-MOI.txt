@@ -1,0 +1,28 @@
+Salut ! Si tu est ici , c'est que tu as envie de creer ton propre bot discord . Tout d'abord , va sur ce lien : https://discord.com/developers/docs/intro 
+Si tu n'est pas connecté , connecte toi avec ton compte discord puis clique sur "Application".
+En haut à droite de la page à coté de ton image de profil , s'affichera un bouton "New Application".
+Clique dessus et entre le nom de ton bot , puis fait create . Clique sur "Bot" avec l'icone de puzzle puis sur "Add Bot" .
+Personnalise le Pseudo et l'avatar de ton bot , puis va tout en bas de la page . Attribue lui toutes les permissions , puis reviens sur "Général Information"
+Clique sur "Copy" sous "Application Id"
+Maintenant vas sur ce lien : https://discordapi.com/permissions.html 
+Sur la ligne "Client Id" , colle l'id de l'Application que tu viens de copier.
+Et Attribue lui encore toutes les permissions .
+/!\ VERIFIE QUE TU A ACTIVE l'A2F SUR TON COMPTE (authentification à deux facteurs)
+Cela vas te générer un lien sur la ligne "Link :"
+Clique dessus puis Selectionne le serveur sur lequel tu veux l'ajouter ( tu dois en être le propriétaire)
+Maintenant que le bot est installé sur le serveur discord , creé un fichier .
+Fait un clic droit et fait ouvrir avec code (tu dois avoir visual studio code)
+Fait "Terminal" > "New Terminal" > puis écrit "npm init" .
+Passe toutes les étapes en appuyant sur entreé à chaque fois puis une fois qu'un fichier package.json à été généré ,
+écrit npm install discord.js .
+Cela vas te télécharger un fichier package-lock.json et un fichier node-modules .
+Tu n'as plus qu'as glissé le fichier index.js avec les autres et c'est terminé ! 
+Ceci est un bot discord de base , ne rajoutant que quelques commandes comme le !ping le !kick ou le !profil mais tu pourras le modifier par la suite.
+Tres important /!\/!\/!\ !!! 
+SUR LA DERNIERE LIGNE , A L'ENDROIT OU IL Y A MARQUER "Insérer votre token" mettre le token que vous pouvez obtenir sur le premier lien dans "bot" et sur "click to reveak a token"
+Copier le token et coller a a place  "Insérer votre token"
+J'espere que vous ferez un bon bot discord :)
+
+BlueWalkkkkkk
+
+Documentation : https://discord.js.org/#/docs/main/stable/general/welcome
