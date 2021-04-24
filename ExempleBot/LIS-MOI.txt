@@ -19,10 +19,10 @@ Cela vas te télécharger un fichier package-lock.json et un fichier node-module
 Tu n'as plus qu'as glissé le fichier index.js avec les autres et c'est terminé ! 
 Ceci est un bot discord de base , ne rajoutant que quelques commandes comme le !ping le !kick ou le !profil mais tu pourras le modifier par la suite.
 Tres important /!\/!\/!\ !!! 
-SUR LA DERNIERE LIGNE , A L'ENDROIT OU IL Y A MARQUER "Insérer votre token" mettre le token que vous pouvez obtenir sur le premier lien dans "bot" et sur "click to reveak a token"
+SUR LA DERNIERE LIGNE , A L'ENDROIT OU IL Y A MARQUER "Insérer votre token" mettre le token que vous pouvez obtenir sur le premier lien dans "bot" et sur "click to reveal a token"
 Copier le token et coller a a place  "Insérer votre token"
 Pour lancer votre bot , faites "node index.js" dans le terminal .
-Pour que votre bot tourne 24h/24, héberger le sur FalixNodes (Vous pouvez savoir coment les héberger en regardant des tutoriels , je vais pas vous l'apprendre .
+Pour que votre bot tourne 24h/24, héberger le sur FalixNodes (Vous pouvez savoir comment les héberger en regardant des tutoriels , je vais pas vous l'apprendre .
 J'espere que vous ferez un bon bot discord :)
 
 BlueWalkkkkkk
